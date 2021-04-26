@@ -1,3 +1,5 @@
+*** Keywords ***
+
 Validate Contact
     [Arguments]          ${contact_id}  ${first_name}  ${last_name}
     [Documentation]
