@@ -1,3 +1,21 @@
+*** Settings ***
+
+Documentation   Library to handle the Quote Editor          
+...    = Table of contents =
+...
+...    %TOC%
+...
+...    = Usage =
+...
+...    This library has several keyword, for example `Assert Endprice`, for asserting
+...    the Endprice of a Quote. 
+...
+...    = Examples =
+...
+...
+...    | `Validate Contact` | ContactId | Ludovico | Einaudi |
+
+
 *** Keywords ***
 
 Validate Contact
